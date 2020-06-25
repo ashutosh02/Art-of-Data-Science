@@ -1,0 +1,49 @@
+cloud_date,devid,recommendation
+5/6/2020 1:13,PNR05WQM100007C0B5,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=0.8999999999999999, unit=lbs, isbalanced=null}, {addedtitle=Soduim Hypochlorite (12%), addedvalue=15.0, keytitle=Increase Chlorine, key=p8, recvalue=18.218999999999998, unit=fl oz, isbalanced=null}, {addedtitle=Sodium Bicarbonate, addedvalue=32.0, keytitle=Increase Alkalinity, key=p10, recvalue=33.6, unit=oz, isbalanced=null}, {addedtitle=Calcium Chloride (100%), addedvalue=86.0, keytitle=Increase Calcium Hardness, key=p6, recvalue=88.72002, unit=oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=10.0, keytitle=Increase Cyanuric Acid, key=p11, recvalue=11.7, unit=oz, isbalanced=null}]"
+5/7/2020 4:30,PNR05WQM10000430A2,"[{addedtitle=Soduim Hypochlorite (12%), addedvalue=0.0, keytitle=Increase Chlorine, key=p8, recvalue=0.88034375, unit=fl oz, isbalanced=null}, {addedtitle=Muriatic Acid (31.4%), addedvalue=0.0, keytitle=Decrease Alkalinity, key=p10, recvalue=1.83733225, unit=fl oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=0.0, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/7/2020 4:32,PNR05WQM10000180A4,"[{addedtitle=Soduim Hypochlorite (12%), addedvalue=0.0, keytitle=Increase Chlorine, key=p8, recvalue=0.88034375, unit=fl oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=0.0, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/7/2020 8:49,PNR05WQM10000530A3,"[{addedtitle=Dichlor (56%), addedvalue=null, keytitle=Increase Chlorine, key=p8, recvalue=7.92, unit=oz, isbalanced=null}, {addedtitle=Sodium Bicarbonate, addedvalue=null, keytitle=Increase Alkalinity, key=p10, recvalue=98.56000000000002, unit=oz, isbalanced=null}]"
+5/6/2020 12:55,PNR05WQM10000160A2,"[{addedtitle=Sodium Carbonate, addedvalue=0.0, keytitle=Increase PH, key=p9, recvalue=0.052500000000000005, unit=lbs, isbalanced=null}]"
+5/8/2020 7:03,PNR05WQM10000250A2,"[{addedtitle=Muriatic Acid, addedvalue=6.0, keytitle=Decrease PH, key=p9, recvalue=2.4000000000000004, unit=fl oz, isbalanced=null}]"
+5/6/2020 12:52,PNR05WQM100007C0B5,[]
+5/6/2020 4:15,PNR05WQM10000160A2,[]
+5/7/2020 5:02,PNR05WQM10000160A2,[]
+5/8/2020 3:24,PNR05WQM10000410A0,[]
+5/8/2020 11:07,PNR05WQM100004C0B2,"[{addedtitle=Sodium Bicarbonate, addedvalue=96.0, keytitle=Increase Alkalinity, key=p10, recvalue=179.20000000000002, unit=oz, isbalanced=null}]"
+5/12/2020 2:44,PNR04WQM100001309E,"[{addedtitle=Muriatic Acid, addedvalue=14.0, keytitle=Decrease PH, key=p9, recvalue=14.399999999999999, unit=fl oz, isbalanced=null}]"
+5/11/2020 1:13,PNR05WQM10000180A4,"[{addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/9/2020 2:04,PNR05WQM10000460A5,"[{addedtitle=Muriatic Acid, addedvalue=null, keytitle=Decrease PH, key=p9, recvalue=76.80000000000001, unit=fl oz, isbalanced=null}]"
+5/9/2020 1:04,PNR05WQM10000560A6,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=0.07500000000000001, unit=lbs, isbalanced=null}]"
+5/12/2020 9:48,PNR05WQM100004C0B2,[]
+5/9/2020 3:53,PNR04WQM100001309E,[]
+5/8/2020 10:20,PNR05WQM10000490A8,[]
+5/9/2020 6:51,PNR05WQM100002109E,[]
+5/14/2020 7:14,PNR05WQM10000430A2,"[{addedtitle=Muriatic Acid, addedvalue=1.0, keytitle=Decrease PH, key=p9, recvalue=0.78, unit=fl oz, isbalanced=null}, {addedtitle=Soduim Hypochlorite (12%), addedvalue=1.0, keytitle=Increase Chlorine, key=p8, recvalue=0.88034375, unit=fl oz, isbalanced=null}, {addedtitle=Sodium Bicarbonate, addedvalue=2.0, keytitle=Increase Alkalinity, key=p10, recvalue=2.184, unit=oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/14/2020 7:21,PNR05WQM10000180A4,"[{addedtitle=Muriatic Acid, addedvalue=1.0, keytitle=Decrease PH, key=p9, recvalue=0.52, unit=fl oz, isbalanced=null}, {addedtitle=Soduim Hypochlorite (12%), addedvalue=1.0, keytitle=Increase Chlorine, key=p8, recvalue=0.88034375, unit=fl oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/13/2020 6:35,PNR05WQM10000160A2,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=0.7000000000000001, unit=oz, isbalanced=null}, {addedtitle=Sodium Carbonate, addedvalue=4.0, keytitle=Increase Alkalinity, key=p10, recvalue=3.9375000000000004, unit=oz, isbalanced=null}]"
+5/15/2020 12:27,PNR05WQM100003B0B0,"[{addedtitle=Muriatic Acid, addedvalue=16.0, keytitle=Decrease PH, key=p9, recvalue=16.128, unit=fl oz, isbalanced=null}]"
+5/14/2020 8:36,PNR05WQM10000430A2,"[{addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=1.69, unit=oz, isbalanced=null}]"
+5/12/2020 9:49,PNR05WQM100004C0B2,[]
+5/16/2020 12:59,PNR05WQM10000410A0,[]
+5/15/2020 10:23,PNR05WQM10000280A5,[]
+5/14/2020 7:06,PNR04WQM100001309E,[]
+5/16/2020 3:18,PNR05WQM100002209F,"[{addedtitle=Muriatic Acid, addedvalue=35.0, keytitle=Decrease PH, key=p9, recvalue=31.200000000000003, unit=fl oz, isbalanced=null}, {addedtitle=Sodium Carbonate, addedvalue=45.0, keytitle=Increase Alkalinity, key=p10, recvalue=45.435, unit=oz, isbalanced=null}, {addedtitle=Calcium Chloride (100%), addedvalue=16.0, keytitle=Increase Calcium Hardness, key=p6, recvalue=192.22671000000003, unit=oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=25.35, unit=oz, isbalanced=null}]"
+5/18/2020 2:09,PNR05WQM10000160A2,"[{addedtitle=Muriatic Acid, addedvalue=null, keytitle=Decrease PH, key=p9, recvalue=0.56, unit=fl oz, isbalanced=null}, {addedtitle=Sodium Carbonate, addedvalue=2.0, keytitle=Increase Alkalinity, key=p10, recvalue=2.4570000000000003, unit=oz, isbalanced=null}]"
+5/17/2020 6:50,PNR05WQM100003B0B0,"[{addedtitle=Muriatic Acid, addedvalue=10.0, keytitle=Decrease PH, key=p9, recvalue=10.752, unit=fl oz, isbalanced=null}]"
+5/16/2020 8:18,PNR05WQM100003B0B0,"[{addedtitle=Muriatic Acid, addedvalue=21.0, keytitle=Decrease PH, key=p9, recvalue=21.504, unit=fl oz, isbalanced=null}]"
+5/19/2020 7:41,PNR05WQM100007C0B5,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=14.399999999999999, unit=oz, isbalanced=null}]"
+5/19/2020 10:17,PNR05WQM10000480A7,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=72.0, unit=oz, isbalanced=null}]"
+5/18/2020 3:31,PNR05WQM100003F0B4,"[{addedtitle=null, addedvalue=null, keytitle=null, key=null, recvalue=null, unit=null, isbalanced=true}]"
+5/19/2020 12:58,PNR05WQM10000160A2,[]
+5/18/2020 7:01,PNR05WQM10000250A2,[]
+5/20/2020 7:52,PNR05WQM10000390A7,"[{addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase PH, key=p9, recvalue=22.0, unit=oz, isbalanced=null}, {addedtitle=Dichlor (56%), addedvalue=null, keytitle=Increase Chlorine, key=p8, recvalue=7.92, unit=oz, isbalanced=null}, {addedtitle=Sodium Carbonate, addedvalue=null, keytitle=Increase Alkalinity, key=p10, recvalue=123.75000000000001, unit=oz, isbalanced=null}]"
+5/21/2020 12:53,PNR05WQM100003B0B0,"[{addedtitle=Muriatic Acid, addedvalue=10.0, keytitle=Decrease PH, key=p9, recvalue=10.752, unit=fl oz, isbalanced=null}]"
+5/23/2020 10:57,PNR05WQM100003B0B0,"[{addedtitle=Muriatic Acid, addedvalue=11.0, keytitle=Decrease PH, key=p9, recvalue=10.752, unit=fl oz, isbalanced=null}]"
+5/23/2020 1:51,PNR05WQM10000460A5,"[{addedtitle=Sodium Bicarbonate, addedvalue=null, keytitle=Increase Alkalinity, key=p10, recvalue=206.08, unit=oz, isbalanced=null}]"
+5/22/2020 5:08,PNR05WQM10000490A8,"[{addedtitle=null, addedvalue=null, keytitle=null, key=null, recvalue=null, unit=null, isbalanced=true}]"
+5/20/2020 11:05,PNR05WQM10000410A0,[]
+5/24/2020 11:09,PNR05WQM10000440A3,[]
+5/24/2020 4:43,PNR05WQM10000430A2,[]
+5/24/2020 4:44,PNR05WQM10000180A4,[]
+5/28/2020 10:35,PNR05WQM100007A0B3,"[{addedtitle=Sodium Carbonate, addedvalue=12.0, keytitle=Increase PH, key=p9, recvalue=12.0, unit=oz, isbalanced=null}, {addedtitle=Soduim Hypochlorite (12%), addedvalue=18.0, keytitle=Increase Chlorine, key=p8, recvalue=18.874499999999998, unit=fl oz, isbalanced=null}, {addedtitle=Sodium Bicarbonate, addedvalue=2.0, keytitle=Increase Alkalinity, key=p10, recvalue=40.32, unit=oz, isbalanced=null}, {addedtitle=Calcium Chloride (100%), addedvalue=5.0, keytitle=Increase Calcium Hardness, key=p6, recvalue=88.72002, unit=oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=11.0, keytitle=Increase Cyanuric Acid, key=p11, recvalue=11.7, unit=oz, isbalanced=null}]"
+5/26/2020 6:43,PNR05WQM10000250A2,"[{addedtitle=Muriatic Acid, addedvalue=2.0, keytitle=Decrease PH, key=p9, recvalue=2.4000000000000004, unit=fl oz, isbalanced=null}, {addedtitle=Cyanuric Acid, addedvalue=null, keytitle=Increase Cyanuric Acid, key=p11, recvalue=2.6, unit=oz, isbalanced=null}]"
