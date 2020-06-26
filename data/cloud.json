@@ -1,0 +1,316 @@
+{
+  "response": [
+    {
+      "cloud_date": "2020-05-06 01:13:48",
+      "devid": "PNR05WQM100007C0B5",
+      "Recommendation": [
+        {
+          "addedTitle": "Sodium Carbonate",
+          "addedValue": null,
+          "keyTitle": "Increase PH",
+          "key": "p9",
+          "recValue": 0.8999999999999999,
+          "unit": "lbs"
+        },
+        {
+          "addedTitle": "Soduim Hypochlorite (12%)",
+          "addedValue": 15,
+          "keyTitle": "Increase Chlorine",
+          "key": "p8",
+          "recValue": 18.218999999999998,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Sodium Bicarbonate",
+          "addedValue": 32,
+          "keyTitle": "Increase Alkalinity",
+          "key": "p10",
+          "recValue": 33.6,
+          "unit": "oz"
+        },
+        {
+          "addedTitle": "Calcium Chloride (100%)",
+          "addedValue": 86,
+          "keyTitle": "Increase Calcium Hardness",
+          "key": "p6",
+          "recValue": 88.72002,
+          "unit": "oz"
+        },
+        {
+          "addedTitle": "Cyanuric Acid",
+          "addedValue": 10,
+          "keyTitle": "Increase Cyanuric Acid",
+          "key": "p11",
+          "recValue": 11.7,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-07 04:30:45",
+      "devid": "PNR05WQM10000430A2",
+      "Recommendation": [
+        {
+          "addedTitle": "Soduim Hypochlorite (12%)",
+          "addedValue": 0,
+          "keyTitle": "Increase Chlorine",
+          "key": "p8",
+          "recValue": 0.88034375,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Muriatic Acid (31.4%)",
+          "addedValue": 0,
+          "keyTitle": "Decrease Alkalinity",
+          "key": "p10",
+          "recValue": 1.83733225,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Cyanuric Acid",
+          "addedValue": 0,
+          "keyTitle": "Increase Cyanuric Acid",
+          "key": "p11",
+          "recValue": 1.69,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-07 04:32:15",
+      "devid": "PNR05WQM10000180A4",
+      "Recommendation": [
+        {
+          "addedTitle": "Soduim Hypochlorite (12%)",
+          "addedValue": 0,
+          "keyTitle": "Increase Chlorine",
+          "key": "p8",
+          "recValue": 0.88034375,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Cyanuric Acid",
+          "addedValue": 0,
+          "keyTitle": "Increase Cyanuric Acid",
+          "key": "p11",
+          "recValue": 1.69,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-07 08:49:11",
+      "devid": "PNR05WQM10000530A3",
+      "Recommendation": [
+        {
+          "addedTitle": "Dichlor (56%)",
+          "addedValue": null,
+          "keyTitle": "Increase Chlorine",
+          "key": "p8",
+          "recValue": 7.92,
+          "unit": "oz"
+        },
+        {
+          "addedTitle": "Sodium Bicarbonate",
+          "addedValue": null,
+          "keyTitle": "Increase Alkalinity",
+          "key": "p10",
+          "recValue": 98.56000000000002,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-06 12:55:12",
+      "devid": "PNR05WQM10000160A2",
+      "Recommendation": [
+        {
+          "addedTitle": "Sodium Carbonate",
+          "addedValue": 0,
+          "keyTitle": "Increase PH",
+          "key": "p9",
+          "recValue": 0.052500000000000005,
+          "unit": "lbs"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-08 07:03:59",
+      "devid": "PNR05WQM10000250A2",
+      "Recommendation": [
+        {
+          "addedTitle": "Muriatic Acid",
+          "addedValue": 6,
+          "keyTitle": "Decrease PH",
+          "key": "p9",
+          "recValue": 2.4000000000000004,
+          "unit": "fl oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-06 12:52:39",
+      "devid": "PNR05WQM100007C0B5",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-06 04:15:05",
+      "devid": "PNR05WQM10000160A2",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-07 05:02:38",
+      "devid": "PNR05WQM10000160A2",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-08 03:24:33",
+      "devid": "PNR05WQM10000410A0",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-08 11:07:39",
+      "devid": "PNR05WQM100004C0B2",
+      "Recommendation": [
+        {
+          "addedTitle": "Sodium Bicarbonate",
+          "addedValue": 96,
+          "keyTitle": "Increase Alkalinity",
+          "key": "p10",
+          "recValue": 179.20000000000002,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-12 02:44:56",
+      "devid": "PNR04WQM100001309E",
+      "Recommendation": [
+        {
+          "addedTitle": "Muriatic Acid",
+          "addedValue": 14,
+          "keyTitle": "Decrease PH",
+          "key": "p9",
+          "recValue": 14.399999999999999,
+          "unit": "fl oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-11 01:13:47",
+      "devid": "PNR05WQM10000180A4",
+      "Recommendation": [
+        {
+          "addedTitle": "Cyanuric Acid",
+          "addedValue": null,
+          "keyTitle": "Increase Cyanuric Acid",
+          "key": "p11",
+          "recValue": 1.69,
+          "unit": "oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-09 02:04:40",
+      "devid": "PNR05WQM10000460A5",
+      "Recommendation": [
+        {
+          "addedTitle": "Muriatic Acid",
+          "addedValue": null,
+          "keyTitle": "Decrease PH",
+          "key": "p9",
+          "recValue": 76.80000000000001,
+          "unit": "fl oz"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-09 01:04:54",
+      "devid": "PNR05WQM10000560A6",
+      "Recommendation": [
+        {
+          "addedTitle": "Sodium Carbonate",
+          "addedValue": null,
+          "keyTitle": "Increase PH",
+          "key": "p9",
+          "recValue": 0.07500000000000001,
+          "unit": "lbs"
+        }
+      ]
+    },
+    {
+      "cloud_date": "2020-05-12 09:48:37",
+      "devid": "PNR05WQM100004C0B2",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-09 03:53:08",
+      "devid": "PNR04WQM100001309E",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-08 10:20:58",
+      "devid": "PNR05WQM10000490A8",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-09 06:51:41",
+      "devid": "PNR05WQM100002109E",
+      "Recommendation": [
+        
+      ]
+    },
+    {
+      "cloud_date": "2020-05-14 07:14:41",
+      "devid": "PNR05WQM10000430A2",
+      "Recommendation": [
+        {
+          "addedTitle": "Muriatic Acid",
+          "addedValue": 1,
+          "keyTitle": "Decrease PH",
+          "key": "p9",
+          "recValue": 0.78,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Soduim Hypochlorite (12%)",
+          "addedValue": 1,
+          "keyTitle": "Increase Chlorine",
+          "key": "p8",
+          "recValue": 0.88034375,
+          "unit": "fl oz"
+        },
+        {
+          "addedTitle": "Sodium Bicarbonate",
+          "addedValue": 2,
+          "keyTitle": "Increase Alkalinity",
+          "key": "p10",
+          "recValue": 2.184,
+          "unit": "oz"
+        },
+        {
+          "addedTitle": "Cyanuric Acid",
+          "addedValue": null,
+          "keyTitle": "Increase Cyanuric Acid",
+          "key": "p11",
+          "recValue": 1.69,
+          "unit": "oz"
+        }
+      ]
+    }
+  ]
+}
